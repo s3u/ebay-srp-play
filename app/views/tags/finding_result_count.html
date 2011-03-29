@@ -1,0 +1,15 @@
+<div id="v4-4" class="fpcc">
+<div>
+	<span>
+		<h1 class="smuy">
+      #{if _results}
+		<span class="countClass">${_results.findItemsByKeywordsResponse.get(0).paginationOutput.get(0).totalPages.get(0).getAsString()}</span> <span
+			class="matchClass">results found for</span> <span class="keywordClass"
+			id="v4-5">${request.params.get("_nkw")}</span>
+      #{/if}
+		</h1>
+	</span>
+	<span class="saveSearch"> </span>
+	<span> </span>
+</div>
+</div>
