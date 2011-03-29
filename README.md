@@ -1,4 +1,4 @@
-This is a sample app used to benchmark Play Framework against Nodejs.
+This is a sample app used to benchmark Play Framework against Nodejs. See the blog post [Nodejs vs Play for Front-End Apps](http://www.subbu.org/blog/2011/03/nodejs-vs-play-for-front-end-apps) for the context and latest test results.
 
 Note: Not all links on the page may work. The intent is to generate the search result page and nothing more.
 
